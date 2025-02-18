@@ -31,14 +31,8 @@ Food-Image-Classifier-Project/
 │-- Deployments/    # Deployment-related files
 │-- Models/         # Trained models
 │-- Notebook/       # Jupyter notebooks for experimentation
-
-├── app.py                  # Backend API using Flask
-├── index.html              # Frontend web interface (GitHub Pages)
-├── style.css               # Custom styling
-├── script.js               # JavaScript for frontend interactions
-├── dish_details.json       # JSON file containing dish details
-├── requirements.txt        # Dependencies
-└── README.md               # Project documentation
+How its Look 
+![Food Image Classifier](https://raw.githubusercontent.com/Sakibyash/Food_image_classifier/main/image.jpg)
 
 🛠️ How It Works
 
