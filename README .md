@@ -106,9 +106,9 @@ This project is **open-source** and licensed under the **MIT License**.
 ---
 
 ### 🖼️ Demo Images
-![Demo 1](attachment:/mnt/data/Screenshot%202025-02-18%20015452.png)  
-![Demo 2](attachment:/mnt/data/Screenshot%202025-02-18%20015510.png)  
-![Demo 3](attachment:/mnt/data/Screenshot%202025-02-18%20015723.png)  
-![Demo 4](attachment:/mnt/data/Screenshot%202025-02-18%20015746.png)  
+![Demo 1](Screenshot%202025-02-18%20015452.png)
+![Demo 2](Screenshot%202025-02-18%20015510.png)
+![Demo 3](Screenshot%202025-02-18%20015723.png)
+![Demo 4](Screenshot%202025-02-18%20015746.png)
 
 🚀 **Try it out and start recognizing food instantly!**
